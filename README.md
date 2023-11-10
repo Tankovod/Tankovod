@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tankovod
+- 👋 Hi, I’m Dmitry
 - 👀 I’m interested in writing API, telegram bots, web-services and python scripts
 - 🌱 I’m currently learning NodeJS and React
 - 📫 How to reach me
