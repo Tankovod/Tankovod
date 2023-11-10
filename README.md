@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tankovod
-- 👀 I’m interested in Python backend development
+- 👀 I’m interested in writing API, telegram bots, web-services and python scripts
 - 🌱 I’m currently learning NodeJS and React
 - 📫 How to reach me telegram: @Frog_dangerous
 
